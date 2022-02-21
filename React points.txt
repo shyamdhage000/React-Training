@@ -1,0 +1,11 @@
+What is react js?
+functional comp?
+class comp?
+props
+states
+higher order component 
+event handling
+conditional rendering
+form handling
+Routing
+Lifecycle methods
